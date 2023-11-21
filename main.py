@@ -2,6 +2,8 @@ def main():
     print('git program')
     print('And I change it every day')
     print('there was dady mashroom')
+    print('FUCK daddy mashroom')
+    print('я вне клуба!!!!!!')
 
 
 if __name__ == '__main__':
