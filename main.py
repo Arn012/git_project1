@@ -1,6 +1,7 @@
 def main():
     print('git program')
     print('And I change it every day')
+    print('there was dady mashroom')
 
 
 if __name__ == '__main__':
